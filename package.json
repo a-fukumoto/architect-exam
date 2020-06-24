@@ -1,0 +1,14 @@
+{
+  "name": "architect-exam",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:a-fukumoto/architect-exam.git",
+  "author": "aki fuku <aki-fukumoto@kke.co.jp>",
+  "scripts": {
+    "test": "node test.js"
+  },
+  "license": "MIT",
+  "dependencies": {
+    "pug": "2.0.0-rc.4"
+  }
+}
